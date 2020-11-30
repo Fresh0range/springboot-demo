@@ -1,0 +1,5 @@
+rootProject.name = 'springboot-demo'
+include 'schedule'
+include 'mybatis'
+include 'jpa'
+
